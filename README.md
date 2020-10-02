@@ -1,6 +1,6 @@
 # QOSF
 
-In this repository is a Jupyter Notebook that sovles QOSF task 2 and describes my approach. 
+In this repository is a Jupyter Notebook that solves QOSF task 2 and describes my approach. 
 
 ## Problem description
 - Implement a circuit that returns $|01\rangle$ and $|10\rangle$ with equal probability.
